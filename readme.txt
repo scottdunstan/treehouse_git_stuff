@@ -9,3 +9,5 @@ As part of the merging section of the git course, I'm making this change to the 
 
 this is also done as part of the merge section. It's on a different line so I shouldn't get a conflict
 
+this version of readme.txt doesn't have the changes I committed on the master branch
+I wonder what this will do after I commit
