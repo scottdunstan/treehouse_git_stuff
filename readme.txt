@@ -3,3 +3,9 @@ If this was the Sports Comics project, this is the place where'd I'd start listi
 functionality I will be adding to the site
 
 Here is a further change to this file in order to understand the process
+
+
+As part of the merging section of the git course, I'm making this change to the readme file
+
+this is also done as part of the merge section. It's on a different line so I shouldn't get a conflict
+
